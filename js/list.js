@@ -12378,6 +12378,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+			       {
+				       "user": "Yeezo",
+				       "link": "https://youtu.be/srF5Be9kRP0",
+				       "percent": 100,
+				       "hz": "60hz"
+			       },
 			],
 			"name": "Shitty xo",
 			"author": "D4M5",
