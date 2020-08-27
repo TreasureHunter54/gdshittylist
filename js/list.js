@@ -6084,6 +6084,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+			        {
+					"user": "CarlosArt16",
+					"link": "https://www.youtube.com/watch?v=F2xUhFd7hIY&feature=youtu.be",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Thinking Space",
 			"author": "AcropolisBoy [timckic]",
