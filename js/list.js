@@ -11564,7 +11564,13 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
-                        ],
+                                {
+					"user": "Acute",
+					"link": "https://www.youtube.com/watch?v=KJRx5DE1iDA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
 			"more": "Segone, SkullBytes, ShadowNinja441, ShuvonIslam777, ZenrioL, Serpyy, AlexTheGS33",
